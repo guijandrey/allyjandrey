@@ -13,8 +13,8 @@
   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Ally-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimesher.com%2Fentry%2F5-centimeters-per-second-hand-type-1055589%2F&psig=AOvVaw0ON7axahXdXt1mbHMUx6wt&ust=1651723889637000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDk4pD9xPcCFQAAAAAdAAAAABAc">
-</div>
+  <!-- <img align="right" alt="Ally-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/759285823207112745/759300440272666637/971266023355465729.gif"> 
+</div> -->
   
   ##
   
@@ -24,3 +24,6 @@
   ![Snake animation](https://github.com/Sunyko/Sunyko/blob/output/github-contribution-grid-snake.svg)
   
   </div>
+  
+  
+

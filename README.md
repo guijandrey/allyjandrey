@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Sunyko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunyko&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunyko&layout=compact&langs_count=7&theme=dark"/>
+  [![card](https://github-readme-stats.vercel.app/api?username=Sunyko&theme=default&show_icons=true)](https://github.com/Sunyko/)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunyko&hide=html&layout=compact&theme=default)](https://github.com/Sunyko/)
 </div>
   
   <div style="display: inline_block"><br>

@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sunyko
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jandreyallyson@gmail.com
+- 👋 Olá, eu sou o Allyson Jandrey, estudante de Engenharia de Software.
+- 👀 Interessado em aprender coisas novas 
+- 🌱 Atualmente aprendendo JavaScript
+- 📫 Como me alcançar jandreyallyson@gmail.com
 
 <div align="center">
   <a href="https://github.com/Sunyko">

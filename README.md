@@ -4,8 +4,8 @@
 - 📫 Como me alcançar jandreyallyson@gmail.com
 
  <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Sunyko&show_icons=true&theme=dracula" alt="stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunyko&layout=compact&theme=dracula" alt="most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Sunyko&show_icons=true&theme=dark" alt="stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunyko&layout=compact&theme=dark" alt="most languages"/>
 </p>
   
 

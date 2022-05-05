@@ -3,8 +3,10 @@
 - 🌱 Atualmente aprendendo JavaScript
 - 📫 Como me alcançar jandreyallyson@gmail.com
 
- [![card](https://github-readme-stats.vercel.app/api?username=Sunyko&theme=dracula&show_icons=true)](https://github.com/Sunyko/)
- [![codes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunyko&hide=html&layout=compact&theme=dracula)](https://github.com/Sunyko/)
+ <p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Sunyko&show_icons=true&theme=dracula" alt="stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunyko&layout=compact&theme=dracula" alt="most languages"/>
+</p>
   
 
   <div style="display: inline_block"><br>
@@ -13,8 +15,6 @@
   <img align="center" alt="Ally-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img align="center" alt="Ally-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
    <img align="center" alt="Ally-Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
-  <!-- <img align="right" alt="Ally-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/759285823207112745/759300440272666637/971266023355465729.gif"> 
-</div> -->
 
   ##
   

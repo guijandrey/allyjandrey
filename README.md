@@ -2,7 +2,7 @@
 - 👀 Interessado em aprender coisas novas 
 - 🌱 Atualmente aprendendo JavaScript
 - 📫 Como me alcançar jandreyallyson@gmail.com
-- 
+
  [![card](https://github-readme-stats.vercel.app/api?username=Sunyko&theme=dracula&show_icons=true)](https://github.com/Sunyko/)
  [![codes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunyko&hide=html&layout=compact&theme=dracula)](https://github.com/Sunyko/)
   

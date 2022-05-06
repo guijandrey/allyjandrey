@@ -4,8 +4,8 @@
 
 <hr>
  
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/AllyJandrey)](https://www.facebook.com/seixasqlc/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/AllyJandrey)](https://www.facebook.com/a/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/a/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/)
 </h4>
 

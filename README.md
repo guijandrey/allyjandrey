@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o Allyson Jandrey, estudante de Engenharia de Software.
+- 👋 Olá, eu sou o Allyson Jandrey
 - 👀 Interessado em aprender coisas novas 
 - 🌱 Atualmente aprendendo JavaScript
 - 📫 Como me alcançar jandreyallyson@gmail.com

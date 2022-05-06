@@ -1,11 +1,24 @@
-- 👋 Olá, eu sou o Allyson Jandrey
-- 👀 Interessado em aprender coisas novas 
-- 🌱 Atualmente aprendendo JavaScript
-- 📫 Como me alcançar jandreyallyson@gmail.com
- <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AllyJandrey&show_icons=true&theme=dark" alt="stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllyJandrey&layout=compact&theme=dark" alt="most languages"/>
-</p>
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
+ 
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/AllyJandrey)](https://www.facebook.com/seixasqlc/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/)
+</h4>
+
+ <h3 align="center">  <br>
+
+Olá, eu sou o Allyson! 🇧🇷
+<br>
+
+</h3>
+
+```
+Estudante de Engenharia de Software - Centro Universitário Uniamérica 
+```
 
   ## Habilidades
   <div style="display: inline_block"><br>
@@ -20,13 +33,14 @@
  
   ## Sistema Operacional
   <img align="center" alt="Ally-Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
-
-  ## Contato
-  <div>
-   <a href = "mailto:jandreyallyson@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
-  
+ 
+ ## Meus dados no GitHub
+ 
+ <p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AllyJandrey&show_icons=true&theme=dark" alt="stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllyJandrey&layout=compact&theme=dark" alt="most languages"/>
+</p>
+ 
   ![Snake animation](https://github.com/Sunyko/Sunyko/blob/output/github-contribution-grid-snake.svg)
   
   </div>

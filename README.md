@@ -4,10 +4,10 @@
 
 <hr>
  
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/AllyJandrey)](https://www.facebook.com/profile.php?id=100008966856144)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/AllyJandrey)](https://www.instagram.com/allyjandrey/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/AllyJandrey)](https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/AllyJandrey)](mailto:contatoallyjandrey@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/allyjandrey)](https://www.facebook.com/profile.php?id=100008966856144)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/allyjandrey)](https://www.instagram.com/allyjandrey/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/allyjandrey)](https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/allyjandrey)](mailto:contatoallyjandrey@gmail.com)
 
  <h3 align="center">  <br>
 
@@ -41,8 +41,8 @@ Estudante de Engenharia de Software - Centro Universitário Uniamérica
  ## Meus dados no GitHub
  <br>
  <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AllyJandrey&show_icons=true&theme=omni" alt="stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllyJandrey&layout=compact&theme=omni" alt="most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=allyjandrey&show_icons=true&theme=omni" alt="stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyjandrey&layout=compact&theme=omni" alt="most languages"/>
 </p>
  
   ![Snake animation](https://github.com/Sunyko/Sunyko/blob/output/github-contribution-grid-snake.svg)

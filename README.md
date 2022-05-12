@@ -40,8 +40,8 @@ Estudante de Engenharia de Software - Centro Universitário Uniamérica
  ## Meus dados no GitHub
  <br>
  <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=allyjandrey&show_icons=true&theme=omni" alt="stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyjandrey&layout=compact&theme=omni" alt="most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=allyjandrey&show_icons=true&theme=aura" alt="stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyjandrey&layout=compact&theme=aura" alt="most languages"/>
 </p>
  
   ![Snake animation](https://github.com/Sunyko/Sunyko/blob/output/github-contribution-grid-snake.svg)

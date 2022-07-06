@@ -29,7 +29,7 @@ Estudante de Engenharia de Software - Centro Universitário Uniamérica
   <img align="center" alt="Ally-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Ally-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  
- ## Editor de Código-fonte
+ ## Editor de Código
    <br>
  <img align="center" alt="Ally-VS" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
  

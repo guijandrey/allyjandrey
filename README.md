@@ -22,12 +22,14 @@ Estudante de Engenharia de Software - Centro Universitário Uniamérica
 
  ## Atualmente aprendendo
   <div style="display: inline_block"><br>
-  <img align="center" alt="Ally-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt:"Ally-JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  
  
   ## Habilidades
    <br>
   <img align="center" alt="Ally-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Ally-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Ally-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  
  ## Editor de Código
    <br>

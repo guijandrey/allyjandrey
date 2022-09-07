@@ -1,51 +1,27 @@
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=allyjandrey&show_icons=true&title_color=9f3434&text_color=331d1d&icon_color=9f3434&bg_color=f2d1b5&cache_seconds=2300">
 
-<hr>
- 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/allyjandrey)](https://www.facebook.com/profile.php?id=100008966856144)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://github.com/allyjandrey)](https://www.instagram.com/allyjandrey/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/allyjandrey)](https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/allyjandrey)](mailto:contatoallyjandrey@gmail.com)
+Olá! Eu sou o Allyson Jandrey e estou na jornada para me tornar um ótimo programador.
+Sou apaixonado por café e pela cultura japonesa.
 
- <h3 align="center">  <br>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Allyson Jandrey&color=BC002D&style=for-the-badge&logo=GitHub">
 
-Olá, eu sou o Allyson! 🇧🇷
-<br>
+<p>
 
-</h3>
+Estudando no Centro Universitário Uniamérica<br/>
 
-```
-Estudante de Engenharia de Software - Centro Universitário Uniamérica 
-```
+Eu sou desenvolvedor Full-Stack.
 
- ## Atualmente aprendendo
-  <div style="display: inline_block"><br>
-  <img align="center" alt:"Ally-JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  
- 
-  ## Habilidades
-   <br>
-  <img align="center" alt="Ally-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Ally-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Ally-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- 
- ## Editor de Código
-   <br>
- <img align="center" alt="Ally-VS" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
- 
-  ## Sistema Operacional
-   <br>
-  <img align="center" alt="Ally-Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
- 
- ## Meus dados no GitHub
- <br>
- <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=allyjandrey&show_icons=true&theme=aura" alt="stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyjandrey&layout=compact&theme=aura" alt="most languages"/>
+**Caso queira me contatar:**
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-BC002D?style=flat-square&labelColor=BC002D&logo=gmail&logoColor=f8efd4&link=mailto:contatoallyjandrey@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-BC002D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-BC002D?style=flat-square&labelColor=BC002D&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=%2B5545998357095&text&type=phone_number&app_absent=0"/></a>
+</p> 
+
 </p>
- 
-  ![Snake animation](https://github.com/Sunyko/Sunyko/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
+<hr>

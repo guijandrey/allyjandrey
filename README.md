@@ -1,18 +1,24 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=allyjandrey&show_icons=true&title_color=9f3434&text_color=331d1d&icon_color=9f3434&bg_color=f2d1b5&cache_seconds=2300">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Olá! Eu sou o Allyson Jandrey e estou na jornada para me tornar um ótimo programador.
-Sou apaixonado por café e pela cultura japonesa.
+<p align="left"> 
+  Me chamo Allyson Jandrey, sou um desenvolvedor Full-Stack e estudo no Centro Universitário Uniamérica. Apaixonado por café e pela cultura japonesa.
+</p>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Allyson Jandrey&color=BC002D&style=for-the-badge&logo=GitHub">
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS, JavaScript, Java.</strong>
+</p>
 
-<p>
+<p align="left">
+  💌 Meus contatos: ⤵️
+</p>
 
-Estudando no Centro Universitário Uniamérica<br/>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contatoallyjandrey@gmail.com" /></a>
 
-Eu sou desenvolvedor Full-Stack.
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/allyson-menezes-jandrey-a295a8225" /></a>
 
-**Caso queira me contatar:**
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-BC002D?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/allyjandrey)](https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-BC002D?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/allyjandrey)](mailto:contatoallyjandrey@gmail.com)
-<hr>
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=%2B5545998357095&text&type=phone_number&app_absent=0"/></a>
+</p>  

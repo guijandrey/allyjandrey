@@ -12,16 +12,7 @@ Estudando no Centro Universitário Uniamérica<br/>
 Eu sou desenvolvedor Full-Stack.
 
 **Caso queira me contatar:**
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-BC002D?style=flat-square&labelColor=BC002D&logo=gmail&logoColor=f8efd4&link=mailto:contatoallyjandrey@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-BC002D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-BC002D?style=flat-square&labelColor=BC002D&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=%2B5545998357095&text&type=phone_number&app_absent=0"/></a>
-</p> 
-
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-BC002D?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/allyjandrey)](https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-BC002D?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/allyjandrey)](mailto:contatoallyjandrey@gmail.com)
 <hr>
